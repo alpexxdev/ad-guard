@@ -1,7 +1,0 @@
-ipv4.imgur.map.fastly.net
-fastly.net
-imgur.com
-assets.zyrosite.com
-cdn-cgi.com
-zyrosite.com
-alpex.store
